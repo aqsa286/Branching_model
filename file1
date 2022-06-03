@@ -2,4 +2,4 @@
 
 echo "Enter Your Name"
 read name
-echo "Welcome Here, $name"
+echo "Welcome Here, $name."
